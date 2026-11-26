@@ -1,0 +1,14 @@
+{
+  "name": "Тест ростехнадзор",
+  "short_name": "Ростехнадзор",
+  "description": "Тренажёр вопросов Ростехнадзора",
+  "lang": "ru",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {"src": "icon.png", "sizes": "any", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
